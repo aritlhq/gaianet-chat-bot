@@ -1,0 +1,40 @@
+What is Web3, and how does it differ from Web2?
+What is the role of blockchain in the Web3 ecosystem?
+What is decentralization, and why is it important in Web3?
+What is the difference between tokens and coins in the context of Web3?
+What are smart contracts, and how are they used in Web3?
+What is a DAO (Decentralized Autonomous Organization), and how does it work?
+What is DeFi (Decentralized Finance), and how is it transforming the financial industry?
+What are NFTs (Non-Fungible Tokens), and how are they used in Web3?
+What is the role of oracles in the Web3 ecosystem?
+What is interoperability, and why is it important in Web3?
+What is Web3, and how does it differ from Web2?
+What is the role of blockchain in the Web3 ecosystem?
+What is decentralization, and why is it important in Web3?
+What is the difference between tokens and coins in the context of Web3?
+What are smart contracts, and how are they used in Web3?
+What is a DAO (Decentralized Autonomous Organization), and how does it work?
+What is DeFi (Decentralized Finance), and how is it transforming the financial industry?
+What are NFTs (Non-Fungible Tokens), and how are they used in Web3?
+What is the role of oracles in the Web3 ecosystem?
+What is interoperability, and why is it important in Web3?
+What is the difference between layer 1 and layer 2 blockchains?
+What are rollup protocols, and how do they improve blockchain scalability?
+What is IPFS (InterPlanetary File System), and how is it used in Web3?
+What is the difference between custodial and non-custodial wallets?
+What are gas fees, and how do they impact transaction costs in Web3?
+What is staking, and how can businesses leverage it?
+What is cross-chain technology, and why is it important for the future of Web3?
+What is the role of zero-knowledge proof technology in Web3?
+How can Web3 enhance user data security?
+What is the metaverse, and how can businesses leverage it?
+What regulatory challenges do Web3 businesses face?
+How are governments in different countries viewing Web3 and blockchain?
+What are the security risks associated with Web3 businesses?
+How can Web3 businesses ensure regulatory compliance?
+What is KYC (Know Your Customer), and how is it applied in Web3?
+How can Web3 businesses protect themselves from cyberattacks?
+What is the environmental impact of blockchain, and how can Web3 businesses become more sustainable?
+What are the challenges in mass adoption of Web3?
+How can Web3 businesses build trust with users?
+What is the future of Web3, and how can businesses prepare for upcoming changes?

@@ -2,13 +2,12 @@
 
 This repository contains tools for running a Gaianet Node and an automated AI chat bot that interacts with Gaianet's AI API.
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
-- Ubuntu (for running Gaianet Node)
+- npm
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Gaianet Node Setup
 
@@ -49,14 +48,14 @@ Edit `messages.txt` with your desired prompts (one per line)
 npm start
 ```
 
-## 🔧 Configuration
+## Configuration
 
 - `.env`: API configuration
 - `messages.txt`: List of prompts for the AI
 - `MAX_RETRIES`: 3 attempts per request
 - `TIMEOUT`: 30 seconds per request
 
-## 🛠️ Features
+## Features
 
 - Automated AI interactions
 - Retry mechanism with exponential backoff
@@ -64,7 +63,7 @@ npm start
 - Rate limiting protection
 - Continuous prompt cycling
 
-## 🗑️ Uninstallation
+## Uninstallation
 
 To remove Gaianet Node:
 ```bash
@@ -75,11 +74,14 @@ gaianet stop
 curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/uninstall.sh' | bash
 ```
 
-## ⚠️ Note
+## Donations
+If you would like to support the development of this project, you can make a donation using the following addresses:
 
-Remember to keep your API keys secure and never share them publicly.
 
-## 📝 License
+- **Solana**: `AyqspD9yMBWNTq7jv8dUx9YLgvctsaGdVGN8oGmZn2np`
+- **EVM**: `0xFFc3448Fb50d9B053e7Ae03B72f45c85fC0EfC56`
+
+## License
 
 [MIT License](./LICENSE)
 
